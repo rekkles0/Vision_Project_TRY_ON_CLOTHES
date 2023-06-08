@@ -1,8 +1,3 @@
-# Vision_Project_TRY_ON_CLOTHES
-.
-.
-.
-
 # VISIONPROJECT - A 3D TRY ON CLOTHES APPLICATION.
 ![teaser image](./graph/DIAGRAMME.png)
 > [Notre presentation](./VISIONPROJECT.pptx)
