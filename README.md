@@ -4,7 +4,7 @@
 
 ## Colab Demo
 You can simply try it using colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fP5Wia4ukTp6WC5FlSa7InW7cOLXCePy?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m7oUy7UwyPrzvPJjPy6SOKLiZ8Qu6Jaz#scrollTo=0djSVmBD2beu)
 
 ## Installation
 ~~see [INSTALL.md](./INSTALL.md) for the installation~~
